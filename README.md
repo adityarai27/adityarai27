@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5622AQHzJmTgsw3fSQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726260295046?e=1729123200&v=beta&t=JZwod0iU6rZBfCVWU82DyfxktpbUloBiYr9s8A_H2Cs)](https://adityarai27.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://adityarai27.io)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Rai</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
